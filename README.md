@@ -1,6 +1,6 @@
 # 📿 Chandas Identifier — Sanskrit Metrical Analyzer
 
-> A beautiful, frontend-only web application that identifies Sanskrit poetic meters (Chandas) from transliterated or Unicode verse input — with Laghu/Guru syllable visualization, strict rule-based detection, and a glassmorphism UI.
+> A beautiful, frontend-only web application that identifies Sanskrit poetic meters (Chandas) from transliterated or Unicode verse input — with Laghu/Guru syllable visualization, strict rule-based detection, and a glassmorphism UI. and this is the link of this website https://vedamurthy1123-cpu.github.io/chandas-anveshana/
 
 ---
 
