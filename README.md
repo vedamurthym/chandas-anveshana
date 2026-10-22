@@ -157,12 +157,4 @@ Built under the problem statement *"Chandas Detector using Chandashastra"*, and 
 
 ---
 
-## 👨‍💻 Author
-
-**Vedamurthy M**
-Student, VTU (AI & Applications) · Aspiring AI/ML Engineer
-GitHub: [@vedamurthym](https://github.com/vedamurthym)
-
----
-
 ⭐ If you like this project, give it a star!
